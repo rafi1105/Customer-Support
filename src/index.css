@@ -27,3 +27,28 @@
   background-size: contain, contain;
   min-height: 220px;
 }
+
+/* Custom mobile responsive utilities */
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Mobile responsive adjustments */
+@media (max-width: 640px) {
+  .hero-bg-image {
+    background-size: 60% auto, 50% auto;
+    min-height: 180px;
+  }
+}
