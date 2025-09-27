@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1001,
+    "title": "Login Issues - Can't Access Account",
+    "description": "Customer is unable to log in to their account. They've tried resetting their password multiple times but still face the issue.",
+    "customer": "John Smith",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2024-01-15"
+  },
+  {
+    "id": 1002,
+    "title": "Payment Failure During Checkout",
+    "description": "Customer reports that their payment keeps failing when trying to purchase items using a credit card.",
+    "customer": "Emily Johnson",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2024-02-01"
+  },
+  {
+    "id": 1003,
+    "title": "Unable to Reset Password",
+    "description": "Password reset emails are not being sent to the customer’s registered email address.",
+    "customer": "Michael Brown",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2024-02-18"
+  },
+  {
+    "id": 1004,
+    "title": "App Crashing on Startup",
+    "description": "Customer reports that the mobile app crashes immediately after opening on Android devices.",
+    "customer": "Sophia Martinez",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2024-03-05"
+  },
+  {
+    "id": 1005,
+    "title": "Order Not Delivered",
+    "description": "Customer placed an order two weeks ago but has not received the package yet.",
+    "customer": "David Wilson",
+    "priority": "Medium",
+    "status": "Pending",
+    "createdAt": "2024-03-21"
+  },
+  {
+    "id": 1006,
+    "title": "Incorrect Billing Amount",
+    "description": "Customer was charged twice for the same subscription renewal.",
+    "customer": "Olivia Taylor",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2024-04-02"
+  },
+  {
+    "id": 1007,
+    "title": "Website Not Loading",
+    "description": "Customer reports that the website is not loading on desktop browsers, but mobile works fine.",
+    "customer": "Liam Anderson",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2024-04-19"
+  },
+  {
+    "id": 1008,
+    "title": "Account Locked After Multiple Attempts",
+    "description": "Customer's account was locked due to multiple failed login attempts, and they need help unlocking it.",
+    "customer": "Ava Thomas",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2024-05-03"
+  },
+  {
+    "id": 1009,
+    "title": "Subscription Not Activated",
+    "description": "Customer purchased a premium subscription, but the account still shows as free plan.",
+    "customer": "James White",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2024-05-22"
+  },
+  {
+    "id": 1010,
+    "title": "Email Notifications Not Working",
+    "description": "Customer is not receiving any email notifications for updates or promotions.",
+    "customer": "Isabella Harris",
+    "priority": "Low",
+    "status": "Pending",
+    "createdAt": "2024-06-07"
+  },
+  {
+    "id": 1011,
+    "title": "Refund Not Processed",
+    "description": "Customer requested a refund two weeks ago but hasn’t received it yet.",
+    "customer": "Benjamin Clark",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2024-06-25"
+  },
+  {
+    "id": 1012,
+    "title": "Feature Request - Dark Mode",
+    "description": "Customer suggests adding a dark mode option to improve user experience during nighttime use.",
+    "customer": "Mia Lewis",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2024-07-10"
+  }
+]

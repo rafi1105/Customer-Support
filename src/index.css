@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import "@fortawesome/fontawesome-free/css/all.min.css";
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+*{
+  font-family: "Inter", sans-serif;
+}
+.btn-gradient{
+  background: linear-gradient(125.07deg, rgba(99, 46, 227, 1),rgba(159, 98, 242, 1) 100%);
+}
+.hero-gradient-left{
+  background: linear-gradient(125.07deg, rgba(99, 46, 227, 1),rgba(159, 98, 242, 1) 100%);
+ 
+}
+.hero-gradient-right{
+  background: linear-gradient(90.00deg, rgba(84, 207, 103.68001556396484, 1),rgba(0, 130, 122.20001220703125, 1) 100%);
+
+}
+
+.hero-bg-image{
+  background-image: url(./assets/vector1.png), url(./assets/hero-bg-right.png);
+  background-repeat: no-repeat, no-repeat ;
+  background-position: bottom left, bottom right;
+  background-size: contain, contain;
+  min-height: 220px;
+}
